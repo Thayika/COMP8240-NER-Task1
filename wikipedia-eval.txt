@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+      PERSON     1.0000    0.9957    0.9979       469
+ORGANIZATION     1.0000    0.9874    0.9937       159
+    LOCATION     1.0000    1.0000    1.0000        83
+
+   micro avg     1.0000    0.9944    0.9972       711
+   macro avg     1.0000    0.9944    0.9972       711
+weighted avg     1.0000    0.9944    0.9972       711
+
