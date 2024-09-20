@@ -1,4 +1,5 @@
 # COMP8240-NER-Task1
+https://github.com/Thayika/COMP8240-NER-Task1 
 COMP8240 Assessment Task 1
 Introduction
 This project is to work with code that does Named Entity Recognition (NER) and required to:
